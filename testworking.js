@@ -1,5 +1,5 @@
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-            alert('Im working!');
+            console.log('Im working!');
     });
 </script>
